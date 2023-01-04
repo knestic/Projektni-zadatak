@@ -29,10 +29,12 @@ body {
     background-repeat: no-repeat;
     background-position: right,left;
     background-size:contain;
-	font-family: Arial, sans-serif;
-	color: #333;
-	background-color: #eee;
 }
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background-color: #eee;
+    }
     h1 {
       font-size: 48px;
       text-align: center;
