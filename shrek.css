@@ -24,13 +24,13 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
-#1 {
+body {
     background-image: url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika.jpg'), url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika%20(1).jpg');
     background-repeat: no-repeat;
     background-position: right,left;
     background-size:contain;
 }
-    body {
+    #shrek_1 {
       font-family: Arial, sans-serif;
       color: #333;
       background-color: #eee;
