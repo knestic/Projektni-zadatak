@@ -24,7 +24,7 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
-body {
+#1 {
     background-image: url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika.jpg'), url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika%20(1).jpg');
     background-repeat: no-repeat;
     background-position: right,left;
