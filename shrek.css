@@ -1,11 +1,11 @@
 ul {
-    list-style-type: none; /* remove bullet points */
-    padding: 0; /* remove padding */
+    list-style-type: none;
+    padding: 0;
     margin:0 auto;
   }
   
 li {
-    margin-right: 10px; /* add some space between items */
+    margin-right: 10px;
     font-size: 18px;
   }
 li a{
@@ -17,6 +17,13 @@ li a{
 li a:hover {
 	background-color: lightgreen;
 }
+.home{
+  width: 200px;
+  height: 50px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
 li a {
 	display: block;
 	color: black;
@@ -24,12 +31,18 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
-#shrekhomegit {
+#shrekhome {
     background-image: url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika.jpg'), url('https://raw.githubusercontent.com/knestic/Projektni-zadatak/main/Slike/shrek%20slika%20(1).jpg');
     background-repeat: no-repeat;
     background-position: right,left;
     background-size:contain;
     background-color: green;
+}
+img.Series
+{
+  text-align: center;
+  width: 400px;
+  margin-top: 300px;
 }
 #shrek1 {
       font-family: Arial, sans-serif;
