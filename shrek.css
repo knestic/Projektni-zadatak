@@ -1,11 +1,11 @@
 ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type: none; /* remove bullet points */
+    padding: 0; /* remove padding */
     margin:0 auto;
   }
   
 li {
-    margin-right: 10px;
+    margin-right: 10px; /* add some space between items */
     font-size: 18px;
   }
 li a{
@@ -47,7 +47,7 @@ img.Series
 #shrek1 {
       font-family: Arial, sans-serif;
       color: #333;
-      background-color: lightgreen;
+      background-color: #aae5a4;
     }
 h1 {
       font-size: 48px;
@@ -81,6 +81,19 @@ a:hover {
       text-decoration: underline;
     }
 .box {
-        border: 1px solid black;
-        padding: 10px;
+  border: 1px solid black;
+  padding: 10px;
       }
+#cast {
+  margin-left: -5px;
+  text-align: center;
+  border: 5px solid;
+  width:200px;
+}
+#caption{
+  border: 1px solid black;
+  padding: 10px;
+  width: 188px;
+  height: 100px;
+  margin-left: -5px;
+}
