@@ -130,9 +130,7 @@ a:hover {
     background-color: green;
     background-size: 450px;
     }
-  img {
-    
-  }
+
 footer {
   display:none;
 }
@@ -145,7 +143,7 @@ footer {
   display: none;
 }
 nav ul {
-  display:flex
+  display:flex;
 }
 nav li {
   flex: 1 1 auto;
@@ -163,9 +161,7 @@ audio {
     background-color: green;
     background-size: 450px;
     }
-  img {
-    
-  }
+
 footer {
   display:none;
 }
@@ -178,7 +174,7 @@ footer {
   display: none;
 }
 nav ul {
-  display:flex
+  display:flex;
 }
 nav li {
   flex: 1 1 auto;
